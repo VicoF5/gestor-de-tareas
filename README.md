@@ -1,4 +1,6 @@
 # gestor-de-tareas
+Aquí tienes un programa en Python que gestiona una lista de tareas pendientes utilizando Programación Orientada a Objetos (POO). El programa permite agregar nuevas tareas, marcar tareas como completadas, mostrar todas las tareas y eliminar tareas. Además, maneja excepciones y contiene comentarios explicativos.
+
 Explicación del código:
 Clase Tarea:
 
